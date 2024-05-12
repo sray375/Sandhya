@@ -1,0 +1,43 @@
+Seaton,Marlon			Structures of Computer Science:R01                         
+Seaton,Marlon			Structures of Computer Science:R02                          
+Pastine,Micheal			Structures of Computer Science:R03                        
+Pastine,Micheal			Structures of Computer Science:R04                    
+TBD				Structures of Computer Science:R06                                    
+Liu,Zigeng			Discrete Structures:R01                                        
+Liu,Zigeng			Discrete Structures:R02                                       
+Trovato,Karen			Computer Science I:R01                                     
+Trovato,Karen			Computer Science I:R02                                
+Kounavelis,Nikitas		Computer Science I:R03                                
+TBD				Computer Science I:R04                                                  
+Kounavelis,Nikitas		Computer Science I:R06                          
+Trovato,Karen			Computer Science I Lab:R01            
+Trovato,Karen			Computer Science I Lab:R02                                 
+Kounavelis,Nikitas		Computer Science I Lab:R03                           
+TBD				Computer Science I Lab:R04                                            
+Kounavelis,Nikitas		Computer Science I Lab:R06                         
+Toliyat,Amir			Introduction to Computer Programming:RO1                 
+Toliyat,Amir			Introduction to Computer Lab:R01                       
+Toliyat,Amir			Computer Science II:R02                             
+Toliyat,Amir			Computer Science II:R03                                   
+Toliyat,Amir			Computer Science II Lab:R02                    
+Toliyat,Amir			Computer Science II Lab:R03                          
+Liu,Zigeng			Discrete Structures II:R01                           
+Liu,Zigeng			Discrete Structures II:R02                            
+Liu,Zigeng			Discrete Structures II Lab:R01                       
+Liu,Zigeng			Discrete Structures II Lab:R01                   
+TBD				Data Structures:R01                                      
+Li,Yanjun			Data Structures:R02                                           
+Toliyat,Amir			Information and Web Programming:R02                        
+Kounavelis,Nikitas		Information and Data Management:R01           
+Biswas,Sharang			Introduction to Video Game Design:R01                   
+Chen,Sanchuan			Database Systems:R01                                     
+TBD				Cybersecurity and Applications:R01                                
+Trovato,Karen			Computer Organization:R01                             
+TBD				Operating Systems:R01                                             
+Flatley,Stephen			Forensic Computing:R01                                  
+TBD				Computers and Robots in Film:R01                            
+Lyons,Damian			Brains and Behavior in Beasts and Bots:R01                  
+TBD				Computer Algorithms:R01                                          
+Hsu,Derbiau			Theory of Computation:R01                                
+TBD				Data Communications and Networks:R01                                   
+TBD				Cyberspace: Issues and Ethics:R01                                   

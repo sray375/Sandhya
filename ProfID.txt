@@ -1,0 +1,12 @@
+Assigned ID: A10000000 to professor: Seaton,Marlon
+Assigned ID: A10000001 to professor: Pastine,Micheal
+Assigned ID: A10000002 to professor: Liu,Zigeng
+Assigned ID: A10000003 to professor: Trovato,Karen
+Assigned ID: A10000004 to professor: Kounavelis,Nikitas
+Assigned ID: A10000005 to professor: Toliyat,Amir
+Assigned ID: A10000006 to professor: Li,Yanjun
+Assigned ID: A10000007 to professor: Biswas,Sharang
+Assigned ID: A10000008 to professor: Chen,Sanchuan
+Assigned ID: A10000009 to professor: Flatley,Stephen
+Assigned ID: A10000010 to professor: Lyons,Damian
+Assigned ID: A10000011 to professor: Hsu,Derbiau
